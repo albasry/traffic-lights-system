@@ -1,0 +1,10 @@
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.exe.config
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.exe
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\bin\Debug\Traffic Lights.pdb
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.csproj.AssemblyReference.cache
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic_Lights.FrmMain.resources
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic_Lights.Properties.Resources.resources
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.csproj.GenerateResource.cache
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.csproj.CoreCompileInputs.cache
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.exe
+D:\02_Hodehod\14 - C# Level 1\Traffic Lights\Traffic Lights\obj\Debug\Traffic Lights.pdb
